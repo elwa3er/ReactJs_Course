@@ -11,7 +11,7 @@ function App() {
         {/* <ProfilePhoto src={photo.src} alt = {photo.alt}></ProfilePhoto> */}
         <ProfilePhoto {...photo}></ProfilePhoto>
         <FullName name="Thameur Ben Abdallah"></FullName>
-        <Address></Address>
+        <Address/>
         
     
     </div>
